@@ -7,7 +7,7 @@ global.owner = [
   ['6281261193133']
 ] //Numeros de owner 
 
-global.mods = [''] 
+global.mods = ['LynBot'] 
 global.prems = ['6283809861522', '6281261193133']
 global.APIs = { // API Prefix
   // name: 'https://website' 
